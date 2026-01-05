@@ -7,8 +7,6 @@ sites:
     url: https://confirmametupresencia.rsvp/up
     headers:
       - "User-Agent: ConfirmameTuPresencia.RSVP Upptime"
-    type: globalping 
-    location: Asuncion+PY
     maxResponseTime: 5000
 
 assignees:
