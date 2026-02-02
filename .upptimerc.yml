@@ -7,7 +7,7 @@ sites:
     url: https://confirmametupresencia.rsvp/up
     headers:
       - "User-Agent: ConfirmameTuPresencia.RSVP Upptime"
-    maxResponseTime: 5000
+    maxResponseTime: 2000
 
 assignees:
   - $OWNER
