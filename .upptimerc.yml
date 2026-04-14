@@ -19,10 +19,10 @@ status-website:
   theme: night
   introTitle: "Status page for **[ConfirmameTuPresencia.RSVP](https://confirmametupresencia.rsvp)**"
   navbar:
-    - title: Home
-      href: https://confirmametupresencia.rsvp
     - title: Status
       href: /
+    - title: App
+      href: https://confirmametupresencia.rsvp
 
 i18n:
-  footer: "[HDS Solutions](https://hds-solutions.net) &copy; 2025 Todos los derechos reservados, powered by [Upptime](https://upptime.js.org)"
+  footer: "[HDS Solutions](https://hds-solutions.net) &copy; 2026 Todos los derechos reservados, powered by [Upptime](https://upptime.js.org)"
