@@ -5,16 +5,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/confirmametupresencia.rsvp.ico",
     "slug": "confirmame-tu-presencia-rsvp",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "98.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1411,
-    "timeDay": 767,
-    "timeWeek": 919,
-    "timeMonth": 882,
-    "timeYear": 1411,
-    "dailyMinutesDown": {}
+    "uptimeYear": "98.06%",
+    "time": 1409,
+    "timeDay": 829,
+    "timeWeek": 923,
+    "timeMonth": 884,
+    "timeYear": 1409,
+    "dailyMinutesDown": {
+      "2026-02-16": 36,
+      "2026-01-29": 44,
+      "2025-11-22": 852,
+      "2025-11-21": 1440,
+      "2025-11-20": 1440,
+      "2025-11-19": 270
+    }
   }
 ]
