@@ -11,6 +11,10 @@ sites:
     location: aws-sa-east-1
     maxResponseTime: 2000
 
+workflowSchedule:
+  responseTime: "0 */6 * * *"
+  uptime: "*/15 * * * *"
+
 assignees:
   - $OWNER
 
