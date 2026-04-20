@@ -4,7 +4,7 @@
     "url": "https://confirmametupresencia.rsvp/up",
     "icon": "https://icons.duckduckgo.com/ip3/confirmametupresencia.rsvp.ico",
     "slug": "confirmame-tu-presencia-rsvp",
-    "status": "up",
+    "status": "down",
     "uptime": "98.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 721,
     "timeYear": 1317,
     "dailyMinutesDown": {
+      "2026-04-20": 0,
       "2026-02-16": 36,
       "2026-01-29": 44,
       "2025-11-22": 852,
