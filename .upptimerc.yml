@@ -9,7 +9,7 @@ sites:
       - "User-Agent: ConfirmameTuPresencia.RSVP Upptime"
     type: globalping 
     location: aws-sa-east-1
-    maxResponseTime: 2000
+    maxResponseTime: 1000
 
 workflowSchedule:
   responseTime: "0 */6 * * *"
@@ -19,10 +19,8 @@ assignees:
   - $OWNER
 
 status-website:
-  publish: true
   name: ConfirmameTuPresencia.RSVP Status
   cname: status.confirmametupresencia.rsvp
-  apiBaseUrl: ${{ secrets.PROXY_API_URL }}
   logoUrl: https://hds-solutions.net/build/assets/favicon-Ddt1gdk2.ico
   theme: night
   introTitle: "Status page for **[ConfirmameTuPresencia.RSVP](https://confirmametupresencia.rsvp)**"
