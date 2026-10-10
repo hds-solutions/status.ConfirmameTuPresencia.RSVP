@@ -4,16 +4,16 @@
     "url": "https://confirmametupresencia.rsvp/up",
     "icon": "https://icons.duckduckgo.com/ip3/confirmametupresencia.rsvp.ico",
     "slug": "confirmame-tu-presencia-rsvp",
-    "status": "degraded",
-    "uptime": "99.01%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.01%",
+    "status": "up",
+    "uptime": "98.97%",
+    "uptimeDay": "87.62%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "98.97%",
     "time": 706,
-    "timeDay": 499,
-    "timeWeek": 550,
-    "timeMonth": 547,
+    "timeDay": 416,
+    "timeWeek": 535,
+    "timeMonth": 544,
     "timeYear": 706,
     "dailyMinutesDown": {
       "2025-11-22": 852,
@@ -30,7 +30,8 @@
       "2026-08-21": 33,
       "2026-09-02": 72,
       "2026-09-01": 40,
-      "2026-09-03": 116
+      "2026-09-03": 116,
+      "2026-10-10": 178
     }
   }
 ]
